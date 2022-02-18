@@ -6,7 +6,7 @@ Bu repo [Kodluyoruz](https://github.com/kircaliece/kodluyoruzilkrepo/blob/main/R
 
 Öncelikle projeyi clonelayın.
 
-git clone https://github.com/kircaliece/kodluyoruzilkrepo.git
+`git clone https://github.com/kircaliece/kodluyoruzilkrepo.git`
 
 ## Usage
 
@@ -14,8 +14,8 @@ Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
 
-cd kodluyoruzilkrepo
-code
+`cd kodluyoruzilkrepo
+code`
 
 ## Contributing
 
